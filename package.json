@@ -1,0 +1,29 @@
+{
+  "name": "discordbotdersleri",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Serhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "chance": "^1.0.18",
+    "cleverbot-node": "^0.3.11",
+    "common-tags": "^1.8.0",
+    "cool-images": "^1.0.1",
+    "discord.js": "^11.4.2",
+    "jimp": "^0.6.0",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.23.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "node-gyp": "^3.8.0",
+    "quick-db": "^1.0.5",
+    "rebuild": "^0.1.2",
+    "speedtest-net": "^1.4.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
